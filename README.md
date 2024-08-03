@@ -1,2 +1,1 @@
-# project-e-commerce
-Practice
+Bài tập thực hành giữa kỳ
